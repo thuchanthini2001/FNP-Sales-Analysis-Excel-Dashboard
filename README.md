@@ -175,6 +175,4 @@ The project includes analysis of:
 
 **Thuchanthini S**
 
-Data Engineer | SQL • Python • Azure Data Factory • Apache Spark • Kafka
-
 [LinkedIn](https://www.linkedin.com/in/thuchanthinis/)
