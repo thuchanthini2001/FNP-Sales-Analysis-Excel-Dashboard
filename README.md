@@ -131,7 +131,7 @@ The interactive dashboard includes:
 
 ### Dashboard Preview
 
-![FNP Sales Analysis Dashboard](Screenshots/Dashboard.png)
+![FNP Sales Analysis Dashboard](Dashboard.png)
 
 ---
 
