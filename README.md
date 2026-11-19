@@ -31,7 +31,7 @@ The dataset contains information about products, orders, customers, and relevant
 | 2 | What is the average time taken for orders to be delivered? |
 | 3 | How does sales performance fluctuate across the months of 2023? |
 | 4 | Which products generate the highest revenue? |
-| 5 | What is the average spending per customer? |
+| 5 | What is the average customer spending based on order revenue? |
 | 6 | Which are the top 5 products based on revenue? |
 | 7 | Which are the top 10 cities based on the number of orders? |
 | 8 | Is there a relationship between order quantity and delivery time? |
@@ -114,7 +114,7 @@ The dashboard includes the following KPIs:
 | Total Revenue | ₹35,20,984 |
 | Total Orders | 1,000 |
 | Average Order-to-Delivery Time | 5.53 Days |
-| Average Customer Spending | ₹3,520.98 |
+| Average Order Value | ₹3,520.98 |
 
 ---
 
